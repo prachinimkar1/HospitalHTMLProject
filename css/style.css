@@ -1,0 +1,35 @@
+
+
+.topnav a
+{
+  float:left;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  text-align:center;
+}
+
+.topnav 
+{
+  overflow: hidden;
+  background-color: #333;
+ }
+/*Change the color while active*/
+.topnav active
+{
+background-color:#003333;
+color:white;
+}
+
+.topnav hover
+{
+background-color:#FFFFFF;
+color:black;
+}
+
+.main.h1{font:"Courier New", Courier, monospace;}
+
+
+
